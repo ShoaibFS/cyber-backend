@@ -1,9 +1,1 @@
-fastapi
-uvicorn[standard]
-python-dotenv
-pandas
-numpy
-scikit-learn
-tensorflow
-h5py
-joblib
+
